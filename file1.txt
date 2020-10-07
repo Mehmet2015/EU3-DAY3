@@ -1,4 +1,0 @@
-this is file1
-about to be stafed and committed
-
-//this is more change that i want to push to Github
