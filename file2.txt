@@ -1,2 +1,8 @@
 this is my file 2
 about to be falan filan
+
+added more stuff for my own
+changes changes 
+This is not my remote repo but I want to push .
+But I do not have access?
+easiest solution?FORK IT!!
